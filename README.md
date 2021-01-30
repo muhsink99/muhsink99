@@ -11,7 +11,8 @@ Here's some of the technologies I've worked with:
 **Databases**:  <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/> <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/> <img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/>
 
 ### Contact me! 
-<a href="https://www.linkedin.com/in/muhsin-kumbay/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> Muhsin Kumbay
+<a href="https://www.linkedin.com/in/muhsin-kumbay/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> Muhsin Kumbay  
+<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> kumbaymuhsin@gmail.com
 
 <!--
 **muhsink99/muhsink99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
