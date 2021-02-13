@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Muhsin
-I'm a enthusatic Web Developer specialising in Javascript. I'm passionate about technology and always eager to learn new things
+I'm an enthusatic Web Developer specialising in Javascript. I'm passionate about technology and always eager to learn new things
 
 **I'm currently seeking full-time opportunities in web development** 
 
