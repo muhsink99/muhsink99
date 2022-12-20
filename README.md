@@ -1,5 +1,7 @@
 ## Hi there 👋 I'm Muhsin
-I'm an enthusatic Web Developer specialising in Javascript. I'm passionate about technology and always eager to learn new things
+- I'm an enthusatic Web Developer specialising in Javascript / PHP.  
+- My current focus is on backend development with PHP, using frameworks like Symfony. Currnetly looking to improve my frontend skills with ReactJS. 
+- Currently keen on learning about Svelete 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhsink99&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
