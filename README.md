@@ -3,8 +3,6 @@
 - My current focus is on backend development with PHP, using frameworks like Symfony. Currnetly looking to improve my frontend skills with ReactJS. 
 - Currently keen on learning about Svelete 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhsink99&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
 
 ### 🤝 Contact me! 
 <a href="https://www.linkedin.com/in/muhsin-kumbay"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
