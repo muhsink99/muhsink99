@@ -1,10 +1,6 @@
-## Hi there 👋 I'm Muhsin
-- I'm an enthusatic Web Developer specialising in Javascript / PHP.  
-- My current focus is on backend development with PHP, using frameworks like Symfony. Currnetly looking to improve my frontend skills with ReactJS. 
-- Currently keen on learning about Svelete 
+Current focuses: Web Dev, PHP, Python, ML 
 
-
-### 🤝 Contact me! 
+### Contacts
 <a href="https://www.linkedin.com/in/muhsin-kumbay"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 <a href="mailto:kumbaymuhsin@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
